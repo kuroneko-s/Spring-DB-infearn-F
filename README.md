@@ -5,4 +5,4 @@
       
 ### 2022/11/14 끝        
 ### 2022/11/14 2부 시작.       
-### https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-2
+### https://github.com/kuroneko-s/Spring-DB2-infearn-S
