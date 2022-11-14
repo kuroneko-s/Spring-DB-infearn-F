@@ -4,11 +4,8 @@ import com.cdhdev.spring_db_inflearn.domain.Member;
 import com.cdhdev.spring_db_inflearn.repository.MemberRepositoryV3;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.transaction.PlatformTransactionManager;
 import org.springframework.transaction.annotation.Transactional;
-import org.springframework.transaction.support.TransactionTemplate;
 
-import java.sql.Connection;
 import java.sql.SQLException;
 
 /**
